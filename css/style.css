@@ -1,0 +1,63 @@
+@import url(../css/fonts.css);
+
+
+/* .header-area .main-menu .navbar .navbar-brand {
+    padding: 0 2rem 0 5rem;
+}
+
+.header-area .main-menu .navbar {
+    padding: 1rem 20rem;
+} */
+
+.header-area .main-menu .navbar .navbar-brand {
+    padding-left: 100px;
+}
+
+.header-area .main-menu .navbar {
+    padding-right: 100px;
+}
+
+.header-area {
+    margin: 30px;
+}
+
+/* SIGN IN */
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
+.form-signin .checkbox {
+    font-weight: 400;
+}
+.form-signin .form-control {
+    position: relative;
+    box-sizing: border-box;
+    height: auto;
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 10px;
+}
+.form-signin .form-control:focus {
+    z-index: 2; 
+}
+.form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+.form-signin h1 {
+    text-align: center;
+}
+.form-signin p {
+    margin-top: 20px;
+    text-align: center;
+}
+
+/* END SIGN IN */
